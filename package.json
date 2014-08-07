@@ -1,0 +1,18 @@
+{
+  "name": "odobo_assets",
+  "version": "1.0.1",
+  "description": "Odobo assets tool",
+  "author": {
+    "name": "Odobo ltd",
+    "email": "hello@odobo.com",
+    "url": "http://odobo.com/"
+  },
+  "main": "src/spritesheets.js",
+  "dependencies": {
+    "fs-extra": ">= 0.8.1",
+    "mmmagic": ">= 0.3.5"
+  },
+  "optionalDependencies": {
+    "canvas": ">= 1.0.0"
+  }
+}
